@@ -3,3 +3,8 @@ pandas
 matplotlib
 seaborn
 numpy
+blinker
+streamlit
+protobuf
+joblib
+pickle

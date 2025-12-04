@@ -8,3 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
+data/flood.csv
+data/flood_data.csv
+inject_noise.py
